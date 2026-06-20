@@ -13,7 +13,7 @@ android {
     defaultConfig {
         applicationId = "io.ame.micdotdisabler"
         minSdk = 31
-        targetSdk = 36
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 

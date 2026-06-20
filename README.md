@@ -87,7 +87,7 @@ APK output: `app/build/outputs/apk/debug/app-debug.apk`
 - **Kotlin 2.0** + **Jetpack Compose**
 - **Material 3** (Material You) dynamic theming
 - **Shizuku API 12.2.0** for ADB shell command execution
-- **Min SDK 31** / **Target SDK 36**
+- **Min SDK 31** / **Target SDK 34**
 
 ## Project Structure
 

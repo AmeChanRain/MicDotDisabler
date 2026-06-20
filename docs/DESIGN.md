@@ -7,7 +7,7 @@
 
 ### 1.2 平台要求
 - **最低 SDK**: 31 (Android 12)
-- **目标 SDK**: 36
+- **目标 SDK**: 34 (Android 14)
 - **技术栈**: Kotlin + Jetpack Compose + Material 3 + Shizuku API
 
 ### 1.3 核心原理

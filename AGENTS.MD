@@ -6,7 +6,7 @@
 - **包名**: `io.ame.micdotdisabler`
 - **项目类型**: Android 应用（单 Activity, Jetpack Compose）
 - **最低 SDK**: 31 (Android 12)
-- **目标 SDK**: 36
+- **目标 SDK**: 34 (Android 14)
 - **开发语言**: Kotlin 2.0+
 - **UI 框架**: Jetpack Compose + Material 3 (Material You)
 - **特殊依赖**: Shizuku API (dev.rikka.shizuku:api) + Shizuku Provider (dev.rikka.shizuku:provider)
